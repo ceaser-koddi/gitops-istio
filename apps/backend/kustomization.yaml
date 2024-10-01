@@ -7,7 +7,7 @@ resources:
 images:
   - name: ghcr.io/stefanprodan/podinfo
     newName: ghcr.io/stefanprodan/podinfo
-    newTag: 6.1.0
+    newTag: 6.1.1
 patchesJson6902:
 - path: deployment.patch.yaml
   target:
